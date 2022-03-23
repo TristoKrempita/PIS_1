@@ -12,6 +12,7 @@ namespace PIS_1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novo Novo");
         }
     }
 }
